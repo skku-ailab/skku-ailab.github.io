@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-성균관대학교 인공지능 연구실 입니다.
+성균관대학교 인공지능 연구실입니다.
 
 ### Address
 
