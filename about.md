@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+성균관대학교 인공지능 연구실 입니다.
 
-### More Information
+### Address
 
-A place to include any other types of information that you'd like to include about yourself.
+경기도 수원시 장안구 서부로 2066, 제2공학관 27307
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[joshdev@skku.edu](mailto:joshdev@skku.edu)
